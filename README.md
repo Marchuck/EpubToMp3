@@ -6,7 +6,7 @@ moves you books you don't have time to sit and read to audiobooks!
 
 1. grab your epub and move to chapter_X.txt (epub -> txt script available in this repo)
 
-2.  donwload piper, and download the model you need, eg male polish voice:
+2.  donwload piper, and download the model you need (e.g. from [here](https://huggingface.co/WitoldG/polish_piper_models), I used polish male voice:
 
 ```bash
 wget https://huggingface.co/WitoldG/polish_piper_models/resolve/main/pl_PL-jarvis_wg_glos-medium.onnx
